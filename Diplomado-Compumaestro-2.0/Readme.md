@@ -10,10 +10,3 @@ This program was offered to teachers in three cohorts, with up to three groups p
 * ...and many more topics.
 
 The primary goal was to promote the integration of Information and Communication Technology (ICT) into the teaching-learning process. We achieved this by providing technology to teachers who committed to using it in their classrooms, which were then followed up.
-
-
-
-
-
-
-Gemini puede
