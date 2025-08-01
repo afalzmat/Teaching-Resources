@@ -1,5 +1,5 @@
 # Diplomado Compumaestro 2.0
-This program was offered to teachers in three cohorts, with up to three groups per cohort. Each teacher was provided a modern laptop equipped with all the necessary tools and software for the curriculum, which included:
+This program reached more than 100 teachers, offered in three cohorts with up to three groups per cohort. Each teacher was provided a modern laptop equipped with all the necessary tools and software for the curriculum, which included:
 
 * Authoring tools
 * AR tools
