@@ -18,7 +18,6 @@ This folder contains materials from a comprehensive Diplomado in ITC Integration
 * Communicate advanced technical concepts effectively to a diverse audience.
 
 ### LEGO Robotics (WeDo & EV3) and Programming with Scratch, Clubs
-(e.g., lego-robotics-clubs/)
 
 This section showcases my experience organizing, leading, and teaching engaging LEGO WeDo and EV3 robotics clubs. Through hands-on challenges and creative projects, I guided students ages 8-14 in fundamental concepts of:
 
@@ -31,7 +30,6 @@ This section showcases my experience organizing, leading, and teaching engaging 
 This experience underscores my commitment to STEM education and my ability to simplify complex technical ideas for young learners, fostering their curiosity and building foundational skills.
 
 ### Other Tutorials/Workshops
-(e.g., intro-to-web-dev/, git-basics-workshop/)
 
 Here you'll find various standalone tutorials and workshop materials I've created on topics such as:
 
